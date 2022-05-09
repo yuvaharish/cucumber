@@ -9,7 +9,7 @@ public class Hook {
 	public void thanos_has_the_infinity_stone() {
 	   System.out.println("thanos has the infinity stone");
 	}
-
+	//Thanos snap
 	@When("thanos snap his fingures")
 	public void thanos_snap_his_fingures() {
 	    System.out.println("thanos snap his fingures");
